@@ -2,7 +2,13 @@
 
 Les Groupes : 
 
-Ici Groupe 1
+Groupe 1 :
+
+Alex Dean(alexjamesdean1997), Pierre Darrieutort(pierredarrieutort), Thibault Andreis(pierredarrieutort)
+https://github.com/pierredarrieutort/alpith
+Sujet: Alpith est une plateforme proposant la mise en ligne et le partage de films à la demande.
+Vision long terme : Faire du streaming de fichiers.
+
 
 Ici Groupe 2
 
