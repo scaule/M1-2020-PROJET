@@ -11,4 +11,8 @@ Ici Groupe 3
 Ici Groupe 4
 ....
 
-Me faire une PR par groupe :) 
+### Groupe 7
+
+Système de gestion et de suivi de scolarité\
+Maël ([maelquerre](https://github.com/maelquerre)), Baptiste ([BaptisteSapa](https://github.com/BaptisteSapa))\
+https://github.com/maelquerre/studiary.git
