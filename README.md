@@ -9,6 +9,7 @@ https://github.com/pierredarrieutort/alpith
 Sujet: Alpith est une plateforme proposant la mise en ligne et le partage de films à la demande.
 Vision long terme : Faire du streaming de fichiers.
 
+....
 
 Groupe 2 :
 Application pour tracker les conditions météo de ses spots de surf favoris.  
@@ -19,10 +20,12 @@ Ici Groupe 3
 
 Ici Groupe 4
 ....
+
 Groupe 6 :
 Jessica FERREIRA (jferreira40) - Julien VANELIAN (Distrikt64)
 https://github.com/Distrikt64/SyCTF
 Sujet: SyCTF est un site Capture the flag proposant différentes épreuves autour de la sécurité web, etc.  
+....
 
 ### Groupe 7
 
