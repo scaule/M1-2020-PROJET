@@ -22,7 +22,7 @@ Ici Groupe 4
 ....
 
 ### Groupe 5
-CovidCentral - Plateforme qui centralie les informations relatives au Covid-19\
+CovidCentral - Plateforme qui centralise les informations relatives au Covid-19\
 Brandon ([Bran72](https://github.com/Bran72)), Anthony ([AnthonyH-ecv](https://github.com/AnthonyH-ecv)), Robin ([robingiraud](https://github.com/robingiraud))\
 https://github.com/Bran72/covidcentral
 
