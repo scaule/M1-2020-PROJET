@@ -18,7 +18,10 @@ Repository : https://github.com/antoinechassagne/saint-jacques
 
 Ici Groupe 3
 
-Ici Groupe 4
+---
+
+Groupe 4 : Clémentine Besacier et Mathieu Daix
+https://github.com/mathieudaix/corona-musical
 ....
 
 Groupe 6 :
