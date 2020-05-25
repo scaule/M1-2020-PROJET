@@ -24,6 +24,11 @@ Groupe 4 : Clémentine Besacier et Mathieu Daix
 https://github.com/mathieudaix/corona-musical
 ....
 
+### Groupe 5
+CovidCentral - Plateforme qui centralise les informations relatives au Covid-19\
+Brandon ([Bran72](https://github.com/Bran72)), Anthony ([AnthonyH-ecv](https://github.com/AnthonyH-ecv)), Robin ([robingiraud](https://github.com/robingiraud))\
+https://github.com/Bran72/covidcentral
+
 Groupe 6 :
 Jessica FERREIRA (jferreira40) - Julien VANELIAN (Distrikt64)
 https://github.com/Distrikt64/SyCTF
